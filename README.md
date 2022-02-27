@@ -1,5 +1,5 @@
 # LATIHAN2DPBO2022
-Tempat pengumpulan tugas latihan 1 mata kuliah DPBO 2022
+Tempat pengumpulan tugas latihan 2 mata kuliah DPBO 2022
 
 Penjelasan desain program latihan Nomor 1:
 
